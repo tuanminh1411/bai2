@@ -1,7 +1,7 @@
 # Thông tin sinh viên
 
-- **Họ và tên**: Nguyễn Minh Hiếu
-- **Mã SV**: BIT220059
+- **Họ và tên**: Nguyễn Tuấn Minh
+- **Mã SV**: BIT220105
 
 ## Kết quả chạy chương trình
 
